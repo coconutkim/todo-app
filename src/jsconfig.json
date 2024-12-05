@@ -1,0 +1,7 @@
+{
+    "compilerOptions": {
+        "target": "es2020"
+    }
+}
+
+//ctrl+space는 vscode의 자동 완성 단축키
